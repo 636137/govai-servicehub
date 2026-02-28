@@ -1,0 +1,8 @@
+{
+  "name": "govai-servicehub",
+  "version": "1.0.0",
+  "description": "AI-powered government service chatbot",
+  "scripts": {
+    "dev": "cd backend && node server.js"
+  }
+}
